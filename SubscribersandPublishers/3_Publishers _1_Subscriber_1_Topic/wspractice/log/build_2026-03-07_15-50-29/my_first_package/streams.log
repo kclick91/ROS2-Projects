@@ -1,0 +1,16 @@
+[0.433s] Invoking command in '/home/rosworker/wspractice/build/my_first_package': PYTHONPATH=/home/rosworker/wspractice/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosworker/wspractice/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rosworker/wspractice/build/my_first_package/build --no-deps
+[0.626s] running develop
+[0.721s] running egg_info
+[0.722s] writing my_first_package.egg-info/PKG-INFO
+[0.723s] writing dependency_links to my_first_package.egg-info/dependency_links.txt
+[0.723s] writing entry points to my_first_package.egg-info/entry_points.txt
+[0.724s] writing requirements to my_first_package.egg-info/requires.txt
+[0.725s] writing top-level names to my_first_package.egg-info/top_level.txt
+[0.726s] reading manifest file 'my_first_package.egg-info/SOURCES.txt'
+[0.726s] writing manifest file 'my_first_package.egg-info/SOURCES.txt'
+[0.727s] running build_ext
+[0.727s] Creating /home/rosworker/wspractice/install/my_first_package/lib/python3.10/site-packages/my-first-package.egg-link (link to .)
+[0.728s] Installing publisher_node script to /home/rosworker/wspractice/install/my_first_package/lib/my_first_package
+[0.728s] 
+[0.739s] Installed /home/rosworker/wspractice/build/my_first_package
+[0.745s] Invoked command in '/home/rosworker/wspractice/build/my_first_package' returned '0': PYTHONPATH=/home/rosworker/wspractice/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosworker/wspractice/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rosworker/wspractice/build/my_first_package/build --no-deps

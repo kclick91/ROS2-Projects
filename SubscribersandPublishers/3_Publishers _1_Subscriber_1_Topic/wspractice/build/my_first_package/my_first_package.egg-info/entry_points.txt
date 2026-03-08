@@ -1,0 +1,6 @@
+[console_scripts]
+publisher_node = my_first_package.publisher_node:main
+publisher_node_three = my_first_package.publisher_node_three:main
+publisher_node_two = my_first_package.publisher_node_two:main
+subscriber_node = my_first_package.subscriber_node:main
+
